@@ -1,0 +1,12 @@
+
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(€™©
+7
+java:S1170"!Make this final field static too.(¬§¤ß
+\
+java:S2142$"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Q
+java:S2696!"6Make the enclosing method "static" or remove this set.(×ÉÂğüÿÿÿÿ
+h	java:S116"SRename this field "TWO_SECS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬§¤ß
+G
+java:S1153"1Directly append the argument of String.valueOf().(€™©

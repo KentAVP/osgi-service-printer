@@ -1,0 +1,8 @@
+
+h
+java:S13012"KReplace this "switch" statement by "if" statements to increase readability.(¸§ß“8î“òÇ.
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ôµªº8î“òÇ.
+M
+java:S1905"+Remove this unnecessary cast to "IPrinter".(¸ä¥”şÿÿÿÿ8î“òÇ.
+>	java:S1312""Add a default case to this switch.(¸§ß“8î“òÇ.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(•Û³¶úÿÿÿÿ8î“òÇ.
